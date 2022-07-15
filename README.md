@@ -9,9 +9,10 @@ Dump Facebook Disini
  $ pkg update && pkg upgrade
  $ pkg install python git
  $ pip install requests bs4 futures
- $ pip install cython
- $ rm -rf Brute
  $ git clone https://github.com/reytnk/Dump-Fb
+ $ cd Dump-Fb
+ $ git pull
+ $ python rey.py
  ```
 
 ![Screenshot_2022-07-15-20-35-02-86](https://user-images.githubusercontent.com/108567421/179234231-5a67a581-66d6-45ac-807b-e37fcd7dd336.jpg)
