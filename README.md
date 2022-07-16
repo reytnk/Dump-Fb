@@ -8,7 +8,7 @@ Dump Facebook Disini
  ```
  $ pkg update && pkg upgrade
  $ pkg install python git
- $ pip install requests bs4 futures
+ $ pip install requests bs4 future
  $ git clone https://github.com/reytnk/Dump-Fb
  $ cd Dump-Fb
  $ git pull
